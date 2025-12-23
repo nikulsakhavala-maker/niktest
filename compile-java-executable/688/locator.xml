@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_firstname453">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9823.png</element>
+  </locator>
+  <locator name="ele_firstname764">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="css">input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div &gt; inputTGWEBCOMMA5</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9824.png</element>
+  </locator>
+  <locator name="ele_lastname998">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9825.png</element>
+  </locator>
+  <locator name="ele_lastname381">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9826.png</element>
+  </locator>
+  <locator name="ele_lastname337">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="css">input.form-control.ng-untouched.ng-dirty.ng-valid-parse.ng-valid.ng-valid-required</element>
+    <element type="css">form#basicBootstrapForm &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">form-control ng-untouched ng-dirty ng-valid-parse ng-valid ng-valid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9827.png</element>
+  </locator>
+  <locator name="ele_textareatgwebcomma875">
+    <element type="xpath">//textarea[@rows='3']</element>
+    <element type="css">textarea.form-control.ng-pristine.ng-untouched.ng-valid</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMA0</element>
+    <element type="tag">textareaTGWEBCOMMA0</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-validTGWEBCOMMA3</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9828.png</element>
+  </locator>
+  <locator name="ele_textareatgwebcomma903">
+    <element type="xpath">//textarea[@rows='3']</element>
+    <element type="css">textarea.form-control.ng-pristine.ng-untouched.ng-valid</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMA0</element>
+    <element type="tag">textareaTGWEBCOMMA0</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-validTGWEBCOMMA3</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9829.png</element>
+  </locator>
+  <locator name="ele_textareatgwebcomma155">
+    <element type="xpath">//textarea[@value='tyjtyjytjytjytj']</element>
+    <element type="css">textarea.form-control.ng-untouched.ng-valid.ng-dirty.ng-valid-parse</element>
+    <element type="css">form#basicBootstrapForm &gt; div:nth-of-type(2) &gt; div &gt; textareaTGWEBCOMMA0</element>
+    <element type="tag">textareaTGWEBCOMMA0</element>
+    <element type="class">form-control ng-untouched ng-valid ng-dirty ng-valid-parseTGWEBCOMMA3</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9830.png</element>
+  </locator>
+  <locator name="ele_emailemail442">
+    <element type="xpath">//input[@type='email']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-valid-email.ng-invalid.ng-invalid-required</element>
+    <element type="css">div#eid &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-requiredTGWEBCOMMA4</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9831.png</element>
+  </locator>
+  <locator name="ele_emailemail182">
+    <element type="xpath">//input[@value='tyjtyjytjtyjyt']</element>
+    <element type="css">input.form-control.ng-untouched.ng-invalid.ng-dirty.ng-invalid-email.ng-valid-required</element>
+    <element type="css">div#eid &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">form-control ng-untouched ng-invalid ng-dirty ng-invalid-email ng-valid-requiredTGWEBCOMMA4</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/688/9832.png</element>
+  </locator>
+  <locator name="ele_nikcust1">
+    <element type="tag">10TGWEBCOMMATagTGWEBCOMMA0</element>
+  </locator>
+</locators>
