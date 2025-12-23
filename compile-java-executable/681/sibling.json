@@ -6737,6 +6737,4155 @@
             "element_image": "http://192.168.4.15/s/ele-imgs/681/9715.png",
             "element_type": "xpath",
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_searchforp475",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "RjvT8t"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "lNPl8b",
+                        "type": "text",
+                        "title": "Search for Products, Brands and More",
+                        "name": "q",
+                        "autocomplete": "off",
+                        "placeholder": "Search for Products, Brands and More",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='Search for Products, Brands and More']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/header/div/div[2]/form/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"q\"]",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div > div > div > div > div > div > div > div > div > div > div > div > div > header > div > div:nth-of-type(2) > form > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "lNPl8bTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9716.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_searchforp475",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "RjvT8t"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "lNPl8b",
+                        "type": "text",
+                        "title": "Search for Products, Brands and More",
+                        "name": "q",
+                        "autocomplete": "off",
+                        "placeholder": "Search for Products, Brands and More",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='Search for Products, Brands and More']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/header/div/div[2]/form/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"q\"]",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div > div > div > div > div > div > div > div > div > div > div > div > div > header > div > div:nth-of-type(2) > form > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "lNPl8bTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp475"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9716.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_searchforp110",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "RjvT8t"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "lNPl8b",
+                        "type": "text",
+                        "title": "Search for Products, Brands and More",
+                        "name": "q",
+                        "autocomplete": "off",
+                        "placeholder": "Search for Products, Brands and More",
+                        "value": "smartwatch"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='Search for Products, Brands and More']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/header/div/div[2]/form/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"q\"]",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div > div > div > div > div > div > div > div > div > div > div > div > div > header > div > div:nth-of-type(2) > form > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "lNPl8bTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9717.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_searchforp110",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "RjvT8t"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "lNPl8b",
+                        "type": "text",
+                        "title": "Search for Products, Brands and More",
+                        "name": "q",
+                        "autocomplete": "off",
+                        "placeholder": "Search for Products, Brands and More",
+                        "value": "smartwatch"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@placeholder='Search for Products, Brands and More']",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/header/div/div[2]/form/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input[name=\"q\"]",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div > div > div > div > div > div > div > div > div > div > div > div > div > header > div > div:nth-of-type(2) > form > div > div > inputTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input",
+                    "locator_id": "3",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "lNPl8bTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 40,
+                    "d_w": 532,
+                    "d_x": 268,
+                    "d_y": 13.5,
+                    "suggest_name": "searchforp110"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9717.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_smartwatch021",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "data-observerid-b4e2eba0-19c6-4306-8ea5-f3a87929e03e": "122da5c2-65c6-4982-aecd-539572dfd684"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/search?q=smartwatch&sid=ajy%2Cbuh&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&as-pos=2&as-type=RECENT&suggestionId=smartwatch%7CSmart+Watches&requestId=b7d9f5dd-0855-4bd9-8a54-8808e577fa12&as-searchtext=smartwatch",
+                        "class": "Q4gOLj",
+                        "tracking": "[object Object]"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "AuuNvZ"
+                        }
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "URRkKz RzamwD"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[@href='/search?q=smartwatch&sid=ajy%2Cbuh&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&as-pos=2&as-type=RECENT&suggestionId=smartwatch%7CSmart+Watches&requestId=b7d9f5dd-0855-4bd9-8a54-8808e577fa12&as-searchtext=smartwatch']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/header/div/div[2]/form/ul/li[2]/div/a",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "body > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > ul:nth-child(2) > li:nth-child(2) > div:nth-child(1) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div > div > div > div > div > div > div > div > div > div > div > div > div > header > div > div:nth-of-type(2) > form > ul > li:nth-of-type(2) > div > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li[2]/div/a",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "Q4gOLjTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9718.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_smartwatch021",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "data-observerid-b4e2eba0-19c6-4306-8ea5-f3a87929e03e": "122da5c2-65c6-4982-aecd-539572dfd684"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "/search?q=smartwatch&sid=ajy%2Cbuh&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&as-pos=2&as-type=RECENT&suggestionId=smartwatch%7CSmart+Watches&requestId=b7d9f5dd-0855-4bd9-8a54-8808e577fa12&as-searchtext=smartwatch",
+                        "class": "Q4gOLj",
+                        "tracking": "[object Object]"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "AuuNvZ"
+                        }
+                    },
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "URRkKz RzamwD"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[@href='/search?q=smartwatch&sid=ajy%2Cbuh&as=on&as-show=on&otracker=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&as-pos=2&as-type=RECENT&suggestionId=smartwatch%7CSmart+Watches&requestId=b7d9f5dd-0855-4bd9-8a54-8808e577fa12&as-searchtext=smartwatch']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/header/div/div[2]/form/ul/li[2]/div/a",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "body > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > header:nth-child(1) > div:nth-child(1) > div:nth-child(3) > form:nth-child(1) > ul:nth-child(2) > li:nth-child(2) > div:nth-child(1) > a:nth-child(1)",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div > div > div > div > div > div > div > div > div > div > div > div > div > header > div > div:nth-of-type(2) > form > ul > li:nth-of-type(2) > div > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li[2]/div/a",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "Q4gOLjTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 48,
+                    "d_w": 576,
+                    "d_x": 224,
+                    "d_y": 101.5,
+                    "suggest_name": "smartwatch021"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9718.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_imgtgwebco336",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "HOD5kp"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "img",
+                    "tg_attributes": {
+                        "class": "QJdPmy",
+                        "src": "https://rukminim2.flixcart.com/image/20/20/xif0q/smartwatch/m/v/i/-original-imah76cazsbbt8hu.jpeg?q=90"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//img[@src='https://rukminim2.flixcart.com/image/20/20/xif0q/smartwatch/m/v/i/-original-imah76cazsbbt8hu.jpeg?q=90']",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612,
+                    "d_y": 622,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[2]/div/div[2]/div/div/div[5]/div/a[2]/div/div/img",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div:nth-of-type(2) > div.bLCLBY.nr15la.MDdjC7 > div.p0C73x > div.yZLfgx > div.FD7OvP > a.KlHDpg > div.S821C6.OedHjj > div.HOD5kp > img.QJdPmy",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div:nth-of-type(5) > div > a:nth-of-type(2) > div > div > imgTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div[5]/div/a[2]/div/div/img",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "imgTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "QJdPmyTGWEBCOMMA5",
+                    "locator_id": "6",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9719.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_imgtgwebco336",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "HOD5kp"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "img",
+                    "tg_attributes": {
+                        "class": "QJdPmy",
+                        "src": "https://rukminim2.flixcart.com/image/20/20/xif0q/smartwatch/m/v/i/-original-imah76cazsbbt8hu.jpeg?q=90"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//img[@src='https://rukminim2.flixcart.com/image/20/20/xif0q/smartwatch/m/v/i/-original-imah76cazsbbt8hu.jpeg?q=90']",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612,
+                    "d_y": 622,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[2]/div/div[2]/div/div/div[5]/div/a[2]/div/div/img",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div:nth-of-type(2) > div.bLCLBY.nr15la.MDdjC7 > div.p0C73x > div.yZLfgx > div.FD7OvP > a.KlHDpg > div.S821C6.OedHjj > div.HOD5kp > img.QJdPmy",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div:nth-of-type(2) > div > div > div:nth-of-type(5) > div > a:nth-of-type(2) > div > div > imgTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div/div[5]/div/a[2]/div/div/img",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "imgTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "QJdPmyTGWEBCOMMA5",
+                    "locator_id": "6",
+                    "d_h": 20,
+                    "d_w": 20,
+                    "d_x": 612.25,
+                    "d_y": 622.21875,
+                    "suggest_name": "imgtgwebco336"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9719.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_off745",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "Px7NL5 PV3PBS"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "svg",
+                    "tg_attributes": {
+                        "width": "12",
+                        "height": "12",
+                        "viewBox": "0 0 9 12",
+                        "class": "w9rRMA",
+                        "xmlns": "http://www.w3.org/2000/svg"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "oXEOOA XT2gKY r5jlLn"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "autocomplete": "off",
+                        "class": "W416iq"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "input",
+                        "tg_attributes": {
+                            "class": "qeqGor",
+                            "placeholder": "Enter Delivery Pincode",
+                            "type": "text",
+                            "maxlength": "6",
+                            "id": "pincodeInputId",
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@autocomplete='off']",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660,
+                    "d_y": 589,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div/div[2]/div/div[2]/div/form",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form.W416iq",
+                    "locator_id": "9",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(5) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > formTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div[2]/div/form",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "formTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "W416iqTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9720.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_off745",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "Px7NL5 PV3PBS"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "svg",
+                    "tg_attributes": {
+                        "width": "12",
+                        "height": "12",
+                        "viewBox": "0 0 9 12",
+                        "class": "w9rRMA",
+                        "xmlns": "http://www.w3.org/2000/svg"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "oXEOOA XT2gKY r5jlLn"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "autocomplete": "off",
+                        "class": "W416iq"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "input",
+                        "tg_attributes": {
+                            "class": "qeqGor",
+                            "placeholder": "Enter Delivery Pincode",
+                            "type": "text",
+                            "maxlength": "6",
+                            "id": "pincodeInputId",
+                            "value": ""
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@autocomplete='off']",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660,
+                    "d_y": 589,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div/div[2]/div/div[2]/div/form",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "form.W416iq",
+                    "locator_id": "9",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(5) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > formTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/div[2]/div/form",
+                    "locator_id": "3",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "formTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "W416iqTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 25,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 589.796875,
+                    "suggest_name": "off745"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9720.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_enterdeliv090",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "autocomplete": "off",
+                        "class": "W416iq"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "qeqGor",
+                        "placeholder": "Enter Delivery Pincode",
+                        "type": "text",
+                        "maxlength": "6",
+                        "id": "pincodeInputId",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pincodeInputId']",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660,
+                    "d_y": 595,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div/div[2]/div/div[2]/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "pincodeInputIdTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pincodeInputId",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#pincodeInputIdTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "qeqGorTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9721.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_enterdeliv090",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "autocomplete": "off",
+                        "class": "W416iq"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "qeqGor",
+                        "placeholder": "Enter Delivery Pincode",
+                        "type": "text",
+                        "maxlength": "6",
+                        "id": "pincodeInputId",
+                        "value": ""
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pincodeInputId']",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660,
+                    "d_y": 595,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div/div[2]/div/div[2]/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "pincodeInputIdTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pincodeInputId",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#pincodeInputIdTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "qeqGorTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv090"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9721.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_enterdeliv408",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "autocomplete": "off",
+                        "class": "W416iq"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "qeqGor",
+                        "placeholder": "Enter Delivery Pincode",
+                        "type": "text",
+                        "maxlength": "6",
+                        "id": "pincodeInputId",
+                        "value": "395010"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pincodeInputId']",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660,
+                    "d_y": 595,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div/div[2]/div/div[2]/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "pincodeInputIdTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pincodeInputId",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#pincodeInputIdTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "qeqGorTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9722.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_enterdeliv408",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "form",
+                    "tg_attributes": {
+                        "autocomplete": "off",
+                        "class": "W416iq"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "class": "qeqGor",
+                        "placeholder": "Enter Delivery Pincode",
+                        "type": "text",
+                        "maxlength": "6",
+                        "id": "pincodeInputId",
+                        "value": "395010"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pincodeInputId']",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660,
+                    "d_y": 595,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div/div[2]/div/div[2]/div/form/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "pincodeInputIdTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pincodeInputId",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#pincodeInputIdTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form/input",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "qeqGorTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 16,
+                    "d_w": 222,
+                    "d_x": 660.265625,
+                    "d_y": 595.171875,
+                    "suggest_name": "enterdeliv408"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9722.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_check037",
+            "tg_text": "Check",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "Px7NL5 ZzydD5"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "oXEOOA XT2gKY r5jlLn"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "ZnqmN2"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "W8q4RQ KCmoQS ia4wY9 WdjVM9 XxI0Il r5jlLn"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//span[contains(text(),'Check')]",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882,
+                    "d_y": 592,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div/div[2]/div/div[2]/div/span",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "span.ZnqmN2",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(5) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > spanTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[5]/div/div/div/div[2]/div/div[2]/div/span",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "spanTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "ZnqmN2TGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9723.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_check037",
+            "tg_text": "Check",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "Px7NL5 ZzydD5"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "oXEOOA XT2gKY r5jlLn"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "span",
+                    "tg_attributes": {
+                        "class": "ZnqmN2"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "div",
+                        "tg_attributes": {
+                            "class": "W8q4RQ KCmoQS ia4wY9 WdjVM9 XxI0Il r5jlLn"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//span[contains(text(),'Check')]",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882,
+                    "d_y": 592,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div[2]/div[5]/div/div/div/div[2]/div/div[2]/div/span",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "span.ZnqmN2",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div:nth-of-type(3) > div > div:nth-of-type(2) > div:nth-of-type(5) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > div > spanTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[5]/div/div/div/div[2]/div/div[2]/div/span",
+                    "locator_id": "3",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "spanTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "ZnqmN2TGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 20,
+                    "d_w": 41,
+                    "d_x": 882.265625,
+                    "d_y": 592.5,
+                    "suggest_name": "check037"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9723.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_addtocart990",
+            "tg_text": "Add to cart",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "li",
+                    "tg_attributes": {
+                        "class": "col col-6-12 "
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "class": "dSM5Ub ugg2XR IUmgrZ"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "svg",
+                        "tg_attributes": {
+                            "class": "kV7kR_",
+                            "width": "16",
+                            "height": "16",
+                            "viewBox": "0 0 16 15",
+                            "xmlns": "http://www.w3.org/2000/svg"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[contains(text(),'Add to cart')]",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div/div[2]/div/ul/li/button",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button.dSM5Ub.ugg2XR.IUmgrZ",
+                    "locator_id": "9",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div:nth-of-type(3) > div > div > div:nth-of-type(2) > div > ul > li > buttonTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li/button",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "dSM5Ub ugg2XR IUmgrZTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9724.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_addtocart990",
+            "tg_text": "Add to cart",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "li",
+                    "tg_attributes": {
+                        "class": "col col-6-12 "
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "class": "dSM5Ub ugg2XR IUmgrZ"
+                    }
+                },
+                "children": [
+                    {
+                        "tag": "svg",
+                        "tg_attributes": {
+                            "class": "kV7kR_",
+                            "width": "16",
+                            "height": "16",
+                            "viewBox": "0 0 16 15",
+                            "xmlns": "http://www.w3.org/2000/svg"
+                        }
+                    }
+                ]
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[contains(text(),'Add to cart')]",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='container']/div/div[3]/div/div/div[2]/div/ul/li/button",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button.dSM5Ub.ugg2XR.IUmgrZ",
+                    "locator_id": "9",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "div#container > div > div:nth-of-type(3) > div > div > div:nth-of-type(2) > div > ul > li > buttonTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//li/button",
+                    "locator_id": "3",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "dSM5Ub ugg2XR IUmgrZTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 56,
+                    "d_w": 216,
+                    "d_x": 80,
+                    "d_y": 572,
+                    "suggest_name": "addtocart990"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9724.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_emailorpho567",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_pS']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9725.png",
+            "element_type": "tag"
+        },
+        {
+            "testcase_element": "ele_emailorpho567",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMATagTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_pS']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho567"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9725.png",
+            "element_type": "tag",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_emailorpho014",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number",
+                        "value": "user@gmail.com"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_pS']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9726.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailorpho014",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number",
+                        "value": "user@gmail.com"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_pS']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho014"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9726.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_password312",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_lX"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9727.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password312",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_lX"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password312"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9727.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_password859",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_lX"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password",
+                        "value": "user@123"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9728.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password859",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_lX"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password",
+                        "value": "user@123"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password859"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9728.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_login252",
+            "tg_text": "Log In",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6ltg"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "value": "1",
+                        "class": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy",
+                        "name": "login",
+                        "data-testid": "royal-login-button",
+                        "type": "submit",
+                        "id": "u_0_5_JU"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='u_0_5_JU']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782,
+                    "d_y": 280,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_pS']/div[2]/button",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "u_0_5_JUTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#u_0_5_JU",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#u_0_5_JUTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9729.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_login252",
+            "tg_text": "Log In",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6ltg"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "value": "1",
+                        "class": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy",
+                        "name": "login",
+                        "data-testid": "royal-login-button",
+                        "type": "submit",
+                        "id": "u_0_5_JU"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='u_0_5_JU']",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782,
+                    "d_y": 280,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_pS']/div[2]/button",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "u_0_5_JUTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#u_0_5_JU",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#u_0_5_JUTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button",
+                    "locator_id": "3",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 48,
+                    "d_w": 364,
+                    "d_x": 782.1400146484375,
+                    "d_y": 280.5581359863281,
+                    "suggest_name": "login252"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9729.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_forgotpass299",
+            "tg_text": "Forgot password?",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6ltj"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzY2NTE2NDcyLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&ars=facebook_login&next",
+                        "id": "u_0_6_gU"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[@id='u_0_6_gU']",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899,
+                    "d_y": 345,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_pS']/div[3]/a",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "u_0_6_gUTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#u_0_6_gU",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a#u_0_6_gUTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Forgot passworTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Forgot password?TGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/a",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9730.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_forgotpass299",
+            "tg_text": "Forgot password?",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6ltj"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzY2NTE2NDcyLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&ars=facebook_login&next",
+                        "id": "u_0_6_gU"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[@id='u_0_6_gU']",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899,
+                    "d_y": 345,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_pS']/div[3]/a",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "u_0_6_gUTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#u_0_6_gU",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a#u_0_6_gUTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "Forgot passworTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "LinkText",
+                    "locators_val": "Forgot password?TGWEBCOMMA0",
+                    "locator_id": "4",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[3]/a",
+                    "locator_id": "3",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 16,
+                    "d_w": 123,
+                    "d_x": 899.03125,
+                    "d_y": 345.078125,
+                    "suggest_name": "forgotpass299"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9730.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_emailormob140",
+            "tg_text": "",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _9o1w",
+                        "id": "identify_email",
+                        "name": "email",
+                        "placeholder": "Email or mobile number",
+                        "autofocus": "1",
+                        "aria-label": "Email or mobile number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='identify_email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='identify_yourself_flow']/div/div[2]/div/table/tbody/tr[2]/td[2]/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "identify_emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#identify_email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#identify_emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//td[2]/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _9o1wTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9731.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailormob140",
+            "tg_text": "",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _9o1w",
+                        "id": "identify_email",
+                        "name": "email",
+                        "placeholder": "Email or mobile number",
+                        "autofocus": "1",
+                        "aria-label": "Email or mobile number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='identify_email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='identify_yourself_flow']/div/div[2]/div/table/tbody/tr[2]/td[2]/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "identify_emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#identify_email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#identify_emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//td[2]/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _9o1wTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob140"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9731.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_emailormob853",
+            "tg_text": "",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _9o1w",
+                        "id": "identify_email",
+                        "name": "email",
+                        "placeholder": "Email or mobile number",
+                        "autofocus": "1",
+                        "aria-label": "Email or mobile number",
+                        "value": "yser@gmail.coimn"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='identify_email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='identify_yourself_flow']/div/div[2]/div/table/tbody/tr[2]/td[2]/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "identify_emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#identify_email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#identify_emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//td[2]/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _9o1wTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9732.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailormob853",
+            "tg_text": "",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _9o1w",
+                        "id": "identify_email",
+                        "name": "email",
+                        "placeholder": "Email or mobile number",
+                        "autofocus": "1",
+                        "aria-label": "Email or mobile number",
+                        "value": "yser@gmail.coimn"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='identify_email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='identify_yourself_flow']/div/div[2]/div/table/tbody/tr[2]/td[2]/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "identify_emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#identify_email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#identify_emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//td[2]/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _9o1wTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 462,
+                    "d_x": 441.5,
+                    "d_y": 272,
+                    "suggest_name": "emailormob853"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9732.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_search599",
+            "tg_text": "Search",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "rfloat _ohf"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "role": "button",
+                        "class": "_42ft _4jy0 _9nq1 textPadding20px _4jy3 _517h _51sy",
+                        "href": "/login.php"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "value": "1",
+                        "class": "_42ft _4jy0 _9nq0 textPadding20px _4jy3 _4jy1 selected _51sy",
+                        "type": "submit",
+                        "name": "did_submit",
+                        "id": "did_submit"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='did_submit']",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809,
+                    "d_y": 360,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='identify_yourself_flow']/div/div[3]/div/div/button",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "did_submitTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#did_submit",
+                    "locator_id": "9",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#did_submitTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "_42ft _4jy0 _9nq0 textPadding20px _4jy3 _4jy1 selected _51syTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9733.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_search599",
+            "tg_text": "Search",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "rfloat _ohf"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "role": "button",
+                        "class": "_42ft _4jy0 _9nq1 textPadding20px _4jy3 _517h _51sy",
+                        "href": "/login.php"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "button",
+                    "tg_attributes": {
+                        "value": "1",
+                        "class": "_42ft _4jy0 _9nq0 textPadding20px _4jy3 _4jy1 selected _51sy",
+                        "type": "submit",
+                        "name": "did_submit",
+                        "id": "did_submit"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button[@id='did_submit']",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809,
+                    "d_y": 360,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='identify_yourself_flow']/div/div[3]/div/div/button",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "did_submitTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#did_submit",
+                    "locator_id": "9",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "button#did_submitTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//button",
+                    "locator_id": "3",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "buttonTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "_42ft _4jy0 _9nq0 textPadding20px _4jy3 _4jy1 selected _51syTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 36,
+                    "d_w": 98,
+                    "d_x": 809.4026489257812,
+                    "d_y": 360.3599853515625,
+                    "suggest_name": "search599"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9733.png",
+            "element_type": "xpath",
+            "image_url": ""
+        },
+        {
+            "testcase_element": "ele_close678",
+            "tg_text": "Close",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "class": "autofocus _9l2h  layerCancel _4jy0 _4jy3 _4jy1 _51sy selected _42ft",
+                        "role": "button",
+                        "href": "#"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[contains(text(),'Close')]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056,
+                    "d_y": 414,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//html[@id='facebook']/body/div[3]/div[2]/div/div/div/div/div[3]/div/div/div[2]/div/a",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a.autofocus._9l2h.layerCancel._4jy0._4jy3._4jy1._51sy.selected._42ft",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html#facebook > body > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(3) > div > div > div:nth-of-type(2) > div > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "CloseTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/a",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "autofocus _9l2h layerCancel _4jy0 _4jy3 _4jy1 _51sy selected _42ftTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9734.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_close678",
+            "tg_text": "Close",
+            "sibling_selector": {
+                "current_element_attrs": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "class": "autofocus _9l2h  layerCancel _4jy0 _4jy3 _4jy1 _51sy selected _42ft",
+                        "role": "button",
+                        "href": "#"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a[contains(text(),'Close')]",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056,
+                    "d_y": 414,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//html[@id='facebook']/body/div[3]/div[2]/div/div/div/div/div[3]/div/div/div[2]/div/a",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "a.autofocus._9l2h.layerCancel._4jy0._4jy3._4jy1._51sy.selected._42ft",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html#facebook > body > div:nth-of-type(3) > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(3) > div > div > div:nth-of-type(2) > div > aTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "PartialLinkText",
+                    "locators_val": "CloseTGWEBCOMMA0",
+                    "locator_id": "5",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/a",
+                    "locator_id": "3",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "aTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "autofocus _9l2h layerCancel _4jy0 _4jy3 _4jy1 _51sy selected _42ftTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 24,
+                    "d_w": 54,
+                    "d_x": 1056.5914306640625,
+                    "d_y": 414.239990234375,
+                    "suggest_name": "close678"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9734.png",
+            "element_type": "xpath",
+            "image_url": ""
         }
     ]
 }

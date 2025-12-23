@@ -25,25 +25,24 @@ public class t3case1 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void t3case1() {
 		tg.openBrowser();
-		tg.wait("ele_searchforp475", ComparisonType.IS_VISIBLE);
-		tg.click("ele_searchforp475", 1);
-		tg.wait("ele_searchforp475", ComparisonType.IS_VISIBLE, 1);
-		tg.type("ele_searchforp475", "smartwatch");
-		tg.wait("ele_smartwatch021", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_smartwatch021", 1);
-		tg.wait("ele_imgtgwebco336", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_imgtgwebco336", 1);
-		tg.switchToTab(1);
-		tg.wait("ele_off745", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_off745", 1);
-		tg.wait("ele_enterdeliv090", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_enterdeliv090", 1);
-		tg.wait("ele_enterdeliv090", ComparisonType.IS_VISIBLE, 1);
-		tg.type("ele_enterdeliv090", "395010");
-		tg.wait("ele_check037", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_check037", 1);
-		tg.wait("ele_addtocart990", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_addtocart990", 1);
+		tg.wait("ele_emailorpho567", ComparisonType.IS_VISIBLE);
+		tg.type("ele_emailorpho567", "user@gmail.com");
+		tg.wait("ele_password312", ComparisonType.IS_VISIBLE);
+		tg.click("ele_password312", 1);
+		tg.wait("ele_password312", ComparisonType.IS_VISIBLE);
+		tg.typeEncrypted("ele_password312", "eeNxDl6//RzOJBxUyt8Q4Q==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+		tg.wait("ele_login252", ComparisonType.IS_VISIBLE);
+		tg.click("ele_login252", 1);
+		tg.wait("ele_forgotpass299", ComparisonType.IS_VISIBLE);
+		tg.click("ele_forgotpass299", 1);
+		tg.wait("ele_emailormob140", ComparisonType.IS_VISIBLE);
+		tg.click("ele_emailormob140", 1);
+		tg.wait("ele_emailormob140", ComparisonType.IS_VISIBLE);
+		tg.type("ele_emailormob140", "yser@gmail.coimn");
+		tg.wait("ele_search599", ComparisonType.IS_VISIBLE);
+		tg.click("ele_search599", 1);
+		tg.wait("ele_close678", ComparisonType.IS_VISIBLE);
+		tg.click("ele_close678", 1);
 		tg.close();
 	}
 }

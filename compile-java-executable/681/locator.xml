@@ -256,4 +256,172 @@
     <element type="class">dSM5Ub ugg2XR KCQxN7 KcXDCUTGWEBCOMMA2</element>
     <element type="image">http://192.168.4.15/s/ele-imgs/681/9715.png</element>
   </locator>
+  <locator name="ele_searchforp475">
+    <element type="xpath">//input[@placeholder='Search for Products, Brands and More']</element>
+    <element type="css">input[name="q"]</element>
+    <element type="css">div#container &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; header &gt; div &gt; div:nth-of-type(2) &gt; form &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">lNPl8bTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9716.png</element>
+  </locator>
+  <locator name="ele_searchforp110">
+    <element type="xpath">//input[@placeholder='Search for Products, Brands and More']</element>
+    <element type="css">input[name="q"]</element>
+    <element type="css">div#container &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; header &gt; div &gt; div:nth-of-type(2) &gt; form &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">lNPl8bTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9717.png</element>
+  </locator>
+  <locator name="ele_smartwatch021">
+    <element type="xpath">//a[@href='/search?q=smartwatch&amp;sid=ajy%2Cbuh&amp;as=on&amp;as-show=on&amp;otracker=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&amp;otracker1=AS_QueryStore_OrganicAutoSuggest_2_10_na_na_na&amp;as-pos=2&amp;as-type=RECENT&amp;suggestionId=smartwatch%7CSmart+Watches&amp;requestId=b7d9f5dd-0855-4bd9-8a54-8808e577fa12&amp;as-searchtext=smartwatch']</element>
+    <element type="css">body &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; header:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3) &gt; form:nth-child(1) &gt; ul:nth-child(2) &gt; li:nth-child(2) &gt; div:nth-child(1) &gt; a:nth-child(1)</element>
+    <element type="css">div#container &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; header &gt; div &gt; div:nth-of-type(2) &gt; form &gt; ul &gt; li:nth-of-type(2) &gt; div &gt; aTGWEBCOMMA0</element>
+    <element type="tag">aTGWEBCOMMA0</element>
+    <element type="class">Q4gOLjTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9718.png</element>
+  </locator>
+  <locator name="ele_imgtgwebco336">
+    <element type="xpath">//img[@src='https://rukminim2.flixcart.com/image/20/20/xif0q/smartwatch/m/v/i/-original-imah76cazsbbt8hu.jpeg?q=90']</element>
+    <element type="css">div:nth-of-type(2) &gt; div.bLCLBY.nr15la.MDdjC7 &gt; div.p0C73x &gt; div.yZLfgx &gt; div.FD7OvP &gt; a.KlHDpg &gt; div.S821C6.OedHjj &gt; div.HOD5kp &gt; img.QJdPmy</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(5) &gt; div &gt; a:nth-of-type(2) &gt; div &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="tag">imgTGWEBCOMMA0</element>
+    <element type="class">QJdPmyTGWEBCOMMA5</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9719.png</element>
+  </locator>
+  <locator name="ele_off745">
+    <element type="xpath">//form[@autocomplete='off']</element>
+    <element type="css">form.W416iq</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(5) &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; formTGWEBCOMMA0</element>
+    <element type="tag">formTGWEBCOMMA0</element>
+    <element type="class">W416iqTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9720.png</element>
+  </locator>
+  <locator name="ele_enterdeliv090">
+    <element type="xpath">//input[@id='pincodeInputId']</element>
+    <element type="id">pincodeInputIdTGWEBCOMMA1</element>
+    <element type="css">#pincodeInputId</element>
+    <element type="css">input#pincodeInputIdTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">qeqGorTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9721.png</element>
+  </locator>
+  <locator name="ele_enterdeliv408">
+    <element type="xpath">//input[@id='pincodeInputId']</element>
+    <element type="id">pincodeInputIdTGWEBCOMMA1</element>
+    <element type="css">#pincodeInputId</element>
+    <element type="css">input#pincodeInputIdTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">qeqGorTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9722.png</element>
+  </locator>
+  <locator name="ele_check037">
+    <element type="xpath">//span[contains(text(),'Check')]</element>
+    <element type="css">span.ZnqmN2</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(5) &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; spanTGWEBCOMMA0</element>
+    <element type="tag">spanTGWEBCOMMA0</element>
+    <element type="class">ZnqmN2TGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9723.png</element>
+  </locator>
+  <locator name="ele_addtocart990">
+    <element type="xpath">//button[contains(text(),'Add to cart')]</element>
+    <element type="css">button.dSM5Ub.ugg2XR.IUmgrZ</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; ul &gt; li &gt; buttonTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class">dSM5Ub ugg2XR IUmgrZTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9724.png</element>
+  </locator>
+  <locator name="ele_emailorpho567">
+    <element type="tag">inputTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="class">inputtext _55r1 _6luyTGWEBCOMMA1</element>
+    <element type="xpath">//input[@id='email']</element>
+    <element type="xpath">//form[@id='u_0_2_pS']/div/div/input</element>
+    <element type="id">emailTGWEBCOMMA1</element>
+    <element type="css">#email</element>
+    <element type="css">input#emailTGWEBCOMMA0</element>
+    <element type="xpath">//div/input</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9725.png</element>
+  </locator>
+  <locator name="ele_emailorpho014">
+    <element type="xpath">//input[@id='email']</element>
+    <element type="id">emailTGWEBCOMMA1</element>
+    <element type="css">#email</element>
+    <element type="css">input#emailTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _55r1 _6luyTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9726.png</element>
+  </locator>
+  <locator name="ele_password312">
+    <element type="xpath">//input[@id='pass']</element>
+    <element type="id">passTGWEBCOMMA1</element>
+    <element type="css">#pass</element>
+    <element type="css">input#passTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9727.png</element>
+  </locator>
+  <locator name="ele_password859">
+    <element type="xpath">//input[@id='pass']</element>
+    <element type="id">passTGWEBCOMMA1</element>
+    <element type="css">#pass</element>
+    <element type="css">input#passTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9728.png</element>
+  </locator>
+  <locator name="ele_login252">
+    <element type="xpath">//button[@id='u_0_5_JU']</element>
+    <element type="id">u_0_5_JUTGWEBCOMMA1</element>
+    <element type="css">#u_0_5_JU</element>
+    <element type="css">button#u_0_5_JUTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class">_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9729.png</element>
+  </locator>
+  <locator name="ele_forgotpass299">
+    <element type="xpath">//a[@id='u_0_6_gU']</element>
+    <element type="id">u_0_6_gUTGWEBCOMMA1</element>
+    <element type="css">#u_0_6_gU</element>
+    <element type="css">a#u_0_6_gUTGWEBCOMMA0</element>
+    <element type="partiallinktext">Forgot passworTGWEBCOMMA0</element>
+    <element type="linktext">Forgot password?TGWEBCOMMA0</element>
+    <element type="tag">aTGWEBCOMMA0</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9730.png</element>
+  </locator>
+  <locator name="ele_emailormob140">
+    <element type="xpath">//input[@id='identify_email']</element>
+    <element type="id">identify_emailTGWEBCOMMA1</element>
+    <element type="css">#identify_email</element>
+    <element type="css">input#identify_emailTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _9o1wTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9731.png</element>
+  </locator>
+  <locator name="ele_emailormob853">
+    <element type="xpath">//input[@id='identify_email']</element>
+    <element type="id">identify_emailTGWEBCOMMA1</element>
+    <element type="css">#identify_email</element>
+    <element type="css">input#identify_emailTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _9o1wTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9732.png</element>
+  </locator>
+  <locator name="ele_search599">
+    <element type="xpath">//button[@id='did_submit']</element>
+    <element type="id">did_submitTGWEBCOMMA1</element>
+    <element type="css">#did_submit</element>
+    <element type="css">button#did_submitTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class">_42ft _4jy0 _9nq0 textPadding20px _4jy3 _4jy1 selected _51syTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9733.png</element>
+  </locator>
+  <locator name="ele_close678">
+    <element type="xpath">//a[contains(text(),'Close')]</element>
+    <element type="css">a.autofocus._9l2h.layerCancel._4jy0._4jy3._4jy1._51sy.selected._42ft</element>
+    <element type="css">html#facebook &gt; body &gt; div:nth-of-type(3) &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; aTGWEBCOMMA0</element>
+    <element type="partiallinktext">CloseTGWEBCOMMA0</element>
+    <element type="linktext">CloseTGWEBCOMMA0</element>
+    <element type="tag">aTGWEBCOMMA0</element>
+    <element type="class">autofocus _9l2h layerCancel _4jy0 _4jy3 _4jy1 _51sy selected _42ftTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9734.png</element>
+  </locator>
 </locators>
