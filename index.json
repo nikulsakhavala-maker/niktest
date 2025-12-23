@@ -8,7 +8,7 @@
         "app_id": "104",
         "version_name": "1.0",
         "version_description": "",
-        "cm_version_module": "688",
+        "cm_version_module": "688,689",
         "platform": "3",
         "ai_modal_id": "cotester_client_bJnckjcz6YYyIM2ryGSgVJl5",
         "script_type": "3",
@@ -27,7 +27,7 @@
         "user_id": "1",
         "os_type": "0",
         "platform": null,
-        "nob": "11",
+        "nob": "12",
         "application_token": "c431dce9e20b6ac6c1a802cb13b3f97c",
         "cm_version_id": "1,238,239",
         "is_autoheal": "1",
@@ -59,7 +59,7 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2025-12-23 22:18:41",
+            "view_updated_date_time": "2025-12-23 22:21:34",
             "is_updated": "1",
             "is_complie": "1",
             "server_ids": "1",
@@ -510,6 +510,51 @@
                             "img_url": "/Applications/XAMPP/xamppfiles/htdocs/s/ele-imgs/688/9833.png"
                         }
                     ]
+                }
+            ]
+        },
+        {
+            "version_module_id": "689",
+            "version_id": "239",
+            "parent_id": "0",
+            "module_name": "T2",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
+            "cm_test_case": "",
+            "cm_test_case_ai": "",
+            "cm_network": "",
+            "cm_renderer": "",
+            "view_updated_date_time": null,
+            "is_updated": "1",
+            "is_complie": "0",
+            "server_ids": "",
+            "is_running": "0",
+            "is_delete": "0",
+            "abo_vm_test_case": [],
+            "abo_version_proc": [],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "2377",
+                    "user_id": "1",
+                    "app_id": "104",
+                    "version_id": "239",
+                    "version_module_id": "689",
+                    "description": "",
+                    "action_process": "add_version_module"
+                }
+            ],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "689",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "image_url": "",
+                    "abo_version_maps": []
                 }
             ]
         }
