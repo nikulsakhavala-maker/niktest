@@ -99,7 +99,7 @@
             "count_resource": "13",
             "cm_resource_pages": "741",
             "cm_default_resource": "9658,9659,9660,9661,9662,9663,9664,9665,9666,9667,9668,9669,9670",
-            "cm_test_function": "552",
+            "cm_test_function": "552,553",
             "cm_test_case": "1351,1352",
             "cm_test_case_ai": "",
             "cm_network": "",
@@ -163,6 +163,17 @@
                     "is_ai_generated": "0",
                     "is_deleted": "0000-00-00 00:00:00",
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/104/238/680/testfunctions/function2.java"
+                },
+                {
+                    "proc_id": "553",
+                    "version_module_id": "680",
+                    "proc_name": "function1",
+                    "proc_description": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "is_ai_generated": "0",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/104/238/680/testfunctions/function1.java"
                 }
             ],
             "abo_vm_network_assert": [],
