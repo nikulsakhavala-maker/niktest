@@ -50,4 +50,210 @@
     <element type="class">gLFyfTGWEBCOMMA1</element>
     <element type="image">http://192.168.4.15/s/ele-imgs/681/9691.png</element>
   </locator>
+  <locator name="ele_searchamaz582">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="css">input#twotabsearchtextboxTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9692.png</element>
+  </locator>
+  <locator name="ele_quantity443">
+    <element type="xpath">//span[@id='a-autoid-13-announce']</element>
+    <element type="id">a-autoid-13-announceTGWEBCOMMA1</element>
+    <element type="css">#a-autoid-13-announce</element>
+    <element type="css">span#a-autoid-13-announceTGWEBCOMMA0</element>
+    <element type="tag">spanTGWEBCOMMA0</element>
+    <element type="class">a-button-text a-declarativeTGWEBCOMMA58</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9693.png</element>
+  </locator>
+  <locator name="ele_atgwebcomm297">
+    <element type="xpath">//a[@id='quantity_2']</element>
+    <element type="id">quantity_2TGWEBCOMMA1</element>
+    <element type="css">#quantity_2</element>
+    <element type="css">a#quantity_2TGWEBCOMMA0</element>
+    <element type="partiallinktext">3TGWEBCOMMA1</element>
+    <element type="linktext">3TGWEBCOMMA0</element>
+    <element type="tag">aTGWEBCOMMA0</element>
+    <element type="class">a-dropdown-linkTGWEBCOMMA3</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9694.png</element>
+  </locator>
+  <locator name="ele_addtocartb546">
+    <element type="xpath">//input[@id='add-to-cart-button']</element>
+    <element type="id">add-to-cart-buttonTGWEBCOMMA1</element>
+    <element type="css">#add-to-cart-button</element>
+    <element type="css">input#add-to-cart-buttonTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-button-inputTGWEBCOMMA56</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9695.png</element>
+  </locator>
+  <locator name="ele_proceedtor308">
+    <element type="xpath">//input[@name='proceedToRetailCheckout']</element>
+    <element type="css">input[name="proceedToRetailCheckout"]</element>
+    <element type="css">span#sc-buy-box-ptc-button &gt; span &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-button-inputTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9696.png</element>
+  </locator>
+  <locator name="ele_apemaillog861">
+    <element type="xpath">//input[@id='ap_email_login']</element>
+    <element type="id">ap_email_loginTGWEBCOMMA1</element>
+    <element type="css">#ap_email_login</element>
+    <element type="css">input#ap_email_loginTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-input-textTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9697.png</element>
+  </locator>
+  <locator name="ele_apemaillog044">
+    <element type="xpath">//input[@id='ap_email_login']</element>
+    <element type="id">ap_email_loginTGWEBCOMMA1</element>
+    <element type="css">#ap_email_login</element>
+    <element type="css">input#ap_email_loginTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-input-textTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9698.png</element>
+  </locator>
+  <locator name="ele_submitcont036">
+    <element type="xpath">//input[@type='submit']</element>
+    <element type="css">input.a-button-input</element>
+    <element type="css">span#continue &gt; span &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-button-inputTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9699.png</element>
+  </locator>
+  <locator name="ele_pleaseenab473">
+    <element type="xpath">//body/div[@id='a-page']/div[1]</element>
+    <element type="css">div.a-section.a-padding-medium.auth-workflow</element>
+    <element type="css">div#a-page &gt; divTGWEBCOMMA2</element>
+    <element type="tag">divTGWEBCOMMA0</element>
+    <element type="class">a-section a-padding-medium auth-workflowTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9700.png</element>
+  </locator>
+  <locator name="ele_auikillswi980">
+    <element type="xpath">//body</element>
+    <element type="css">body.ap-locale-en_IN.a-m-us.a-aui_72554-c.a-aui_killswitch_csa_logger_372963-t1.a-aui_template_weblab_cache_333406-c.a-bw_aui_cxc_alert_measurement_1074111-c.a-bw_aui_stepper_enable_strategies_1_1330429-c.a-meter-animate</element>
+    <element type="css">html &gt; bodyTGWEBCOMMA0</element>
+    <element type="tag">bodyTGWEBCOMMA0</element>
+    <element type="class">ap-locale-en_IN a-m-us a-aui_72554-c a-aui_killswitch_csa_logger_372963-t1 a-aui_template_weblab_cache_333406-c a-bw_aui_cxc_alert_measurement_1074111-c a-bw_aui_stepper_enable_strategies_1_1330429-c a-meter-animateTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9701.png</element>
+  </locator>
+  <locator name="ele_auikillswi959">
+    <element type="xpath">//body</element>
+    <element type="css">body.ap-locale-en_IN.a-m-us.a-aui_72554-c.a-aui_killswitch_csa_logger_372963-t1.a-aui_template_weblab_cache_333406-c.a-bw_aui_cxc_alert_measurement_1074111-c.a-bw_aui_stepper_enable_strategies_1_1330429-c.a-meter-animate</element>
+    <element type="css">html &gt; bodyTGWEBCOMMA0</element>
+    <element type="tag">bodyTGWEBCOMMA0</element>
+    <element type="class">ap-locale-en_IN a-m-us a-aui_72554-c a-aui_killswitch_csa_logger_372963-t1 a-aui_template_weblab_cache_333406-c a-bw_aui_cxc_alert_measurement_1074111-c a-bw_aui_stepper_enable_strategies_1_1330429-c a-meter-animateTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9702.png</element>
+  </locator>
+  <locator name="ele_password192">
+    <element type="xpath">//label[@for='ap_password']</element>
+    <element type="css">label.a-form-label</element>
+    <element type="css">div#authportal-main-section &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; form &gt; div &gt; div &gt; div &gt; div &gt; labelTGWEBCOMMA0</element>
+    <element type="tag">labelTGWEBCOMMA0</element>
+    <element type="class">a-form-labelTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9703.png</element>
+  </locator>
+  <locator name="ele_appassword683">
+    <element type="xpath">//input[@id='ap_password']</element>
+    <element type="id">ap_passwordTGWEBCOMMA1</element>
+    <element type="css">#ap_password</element>
+    <element type="css">input#ap_passwordTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-input-text a-span12 auth-autofocus auth-required-fieldTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9704.png</element>
+  </locator>
+  <locator name="ele_signinsubm097">
+    <element type="xpath">//input[@id='signInSubmit']</element>
+    <element type="id">signInSubmitTGWEBCOMMA1</element>
+    <element type="css">#signInSubmit</element>
+    <element type="css">input#signInSubmitTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-button-inputTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9705.png</element>
+  </locator>
+  <locator name="ele_searchforp640">
+    <element type="tag">inputTGWEBCOMMATagTGWEBCOMMA0</element>
+    <element type="class">lNPl8bTGWEBCOMMA1</element>
+    <element type="xpath">//input[@placeholder='Search for Products, Brands and More']</element>
+    <element type="xpath">//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/header/div/div[2]/form/div/div/input</element>
+    <element type="css">input[name="q"]</element>
+    <element type="css">div#container &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; header &gt; div &gt; div:nth-of-type(2) &gt; form &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="xpath">//input</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9706.png</element>
+  </locator>
+  <locator name="ele_searchforp060">
+    <element type="xpath">//input[@placeholder='Search for Products, Brands and More']</element>
+    <element type="css">input[name="q"]</element>
+    <element type="css">div#container &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; header &gt; div &gt; div:nth-of-type(2) &gt; form &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">lNPl8bTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9707.png</element>
+  </locator>
+  <locator name="ele_winterjack526">
+    <element type="css">body &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; header:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3) &gt; form:nth-child(1) &gt; ul:nth-child(2) &gt; li:nth-child(2) &gt; div:nth-child(1) &gt; a:nth-child(1) &gt; div:nth-child(2)TGWEBCOMMACssSelectorTGWEBCOMMA0</element>
+    <element type="xpath">//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/div/div/header/div/div[2]/form/ul/li[2]/div/a/div[2]</element>
+    <element type="css">body &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; header:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(3) &gt; form:nth-child(1) &gt; ul:nth-child(2) &gt; li:nth-child(2) &gt; div:nth-child(1) &gt; a:nth-child(1) &gt; div:nth-child(2)</element>
+    <element type="css">div#container &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; header &gt; div &gt; div:nth-of-type(2) &gt; form &gt; ul &gt; li:nth-of-type(2) &gt; div &gt; a &gt; div:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="xpath">//li[2]/div/a/div[2]</element>
+    <element type="tag">divTGWEBCOMMA2</element>
+    <element type="class">URRkKz RzamwDTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9708.png</element>
+  </locator>
+  <locator name="ele_imgtgwebco589">
+    <element type="xpath">//img[contains(@src,'https://rukminim2.flixcart.com/image/612/612/xif0q/jacket/y/b/r/xxl-1-yes-bmwj011000-2-dollar-original-imahdmh7wjkbv7f6.jpeg?q=70')]</element>
+    <element type="css">div.bLCLBY.nr15la.MDdjC7 &gt; a.CIaYa1 &gt; div &gt; div &gt; div.jn1d30 &gt; div.fWB4Ui.TTHoOY &gt; img.MZeksS</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(2) &gt; div &gt; a &gt; div &gt; div &gt; div &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="tag">imgTGWEBCOMMA0</element>
+    <element type="class">MZeksSTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9709.png</element>
+  </locator>
+  <locator name="ele_httprukmin914">
+    <element type="xpath">//div[@data-img='http://rukmini1.flixcart.com/image/{@width}/{@height}/xif0q/jacket/j/7/n/m-1-no-bmwj011000-2-dollar-original-imahdptpr63wkxah.jpeg?q={@quality}']</element>
+    <element type="css">#swatch-2-color &gt; a.uQ3z6H.WLkY3m &gt; div._UT2xW.CFXXKN.WLkY3m</element>
+    <element type="css">li#swatch-2-color &gt; a &gt; divTGWEBCOMMA0</element>
+    <element type="tag">divTGWEBCOMMA0</element>
+    <element type="class">_UT2xW CFXXKN WLkY3mTGWEBCOMMA3</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9710.png</element>
+  </locator>
+  <locator name="ele_httpsrukmi562">
+    <element type="xpath">//div[@data-img='https://rukminim1.flixcart.com/image/{@width}/{@height}/xif0q/jacket/b/p/e/xxl-1-no-bmwj011000-2-dollar-original-imahdptpjbzwnkcy.jpeg?q={@quality}']</element>
+    <element type="css">#swatch-3-color &gt; a.uQ3z6H.WLkY3m &gt; div._UT2xW.CFXXKN.WLkY3m</element>
+    <element type="css">li#swatch-3-color &gt; a &gt; divTGWEBCOMMA0</element>
+    <element type="tag">divTGWEBCOMMA0</element>
+    <element type="class">_UT2xW CFXXKN WLkY3mTGWEBCOMMA4</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9711.png</element>
+  </locator>
+  <locator name="ele_enterdeliv701">
+    <element type="xpath">//input[@placeholder='Enter delivery pincode']</element>
+    <element type="css">input.HUudap</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(6) &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">HUudapTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9712.png</element>
+  </locator>
+  <locator name="ele_enterdeliv867">
+    <element type="xpath">//input[@placeholder='Enter delivery pincode']</element>
+    <element type="css">input.HUudap</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(6) &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">HUudapTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9713.png</element>
+  </locator>
+  <locator name="ele_check601">
+    <element type="xpath">//span[contains(text(),'Check')]</element>
+    <element type="css">span._CnZRx</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(6) &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; spanTGWEBCOMMA0</element>
+    <element type="tag">spanTGWEBCOMMA0</element>
+    <element type="class">_CnZRxTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9714.png</element>
+  </locator>
+  <locator name="ele_buynow446">
+    <element type="xpath">//button[@type='button']</element>
+    <element type="css">button.dSM5Ub.ugg2XR.KCQxN7.KcXDCU</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; ul &gt; li:nth-of-type(2) &gt; form &gt; buttonTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class">dSM5Ub ugg2XR KCQxN7 KcXDCUTGWEBCOMMA2</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9715.png</element>
+  </locator>
 </locators>

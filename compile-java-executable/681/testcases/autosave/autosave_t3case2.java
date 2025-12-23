@@ -25,31 +25,27 @@ public class t3case2 {
 	@Test(retryAnalyzer = RetryFailedTestCases.class)
 	public void t3case2() {
 		tg.openBrowser();
-		tg.wait("ele_searchamaz582", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_searchamaz582", 1);
-		tg.wait("ele_searchamaz582", ComparisonType.IS_VISIBLE, 1);
-		tg.type("ele_searchamaz582", "winter jackets for men");
+		tg.wait("ele_searchforp640", ComparisonType.IS_VISIBLE);
+		tg.click("ele_searchforp640", 1);
+		tg.wait("ele_searchforp640", ComparisonType.IS_VISIBLE);
+		tg.type("ele_searchforp640", "winter jackets for men");
+		tg.wait("ele_winterjack526", ComparisonType.IS_VISIBLE);
+		tg.click("ele_winterjack526", 1);
+		tg.wait("ele_imgtgwebco589", ComparisonType.IS_VISIBLE);
+		tg.click("ele_imgtgwebco589", 1);
 		tg.switchToTab(1);
-		tg.wait("ele_quantity443", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_quantity443", 1);
-		tg.wait("ele_atgwebcomm297", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_atgwebcomm297", 1);
-		tg.wait("ele_addtocartb546", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_addtocartb546", 1);
-		tg.wait("ele_proceedtor308", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_proceedtor308", 1);
-		tg.wait("ele_apemaillog861", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_apemaillog861", 1);
-		tg.wait("ele_apemaillog861", ComparisonType.IS_VISIBLE, 1);
-		tg.type("ele_apemaillog861", "test@gmail.com");
-		tg.wait("ele_submitcont036", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_submitcont036", 1);
-		tg.wait("ele_pleaseenab473", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_pleaseenab473", 1);
-		tg.wait("ele_password192", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_password192", 1);
-		tg.wait("ele_signinsubm097", ComparisonType.IS_VISIBLE, 1);
-		tg.click("ele_signinsubm097", 1);
+		tg.wait("ele_httprukmin914", ComparisonType.IS_VISIBLE, 1);
+		tg.click("ele_httprukmin914", 1);
+		tg.wait("ele_httpsrukmi562", ComparisonType.IS_VISIBLE, 1);
+		tg.click("ele_httpsrukmi562", 1);
+		tg.wait("ele_enterdeliv701", ComparisonType.IS_VISIBLE, 1);
+		tg.click("ele_enterdeliv701", 1);
+		tg.wait("ele_enterdeliv701", ComparisonType.IS_VISIBLE, 1);
+		tg.type("ele_enterdeliv701", "395010");
+		tg.wait("ele_check601", ComparisonType.IS_VISIBLE, 1);
+		tg.click("ele_check601", 1);
+		tg.wait("ele_buynow446", ComparisonType.IS_VISIBLE, 1);
+		tg.click("ele_buynow446", 1);
 		tg.close();
 	}
 }
