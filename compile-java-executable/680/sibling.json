@@ -2796,6 +2796,9 @@
             "element_image": "http://192.168.4.15/s/ele-imgs/680/9670.png",
             "element_type": "xpath",
             "image_url": ""
+        },
+        {
+            "image_url": ""
         }
     ]
 }

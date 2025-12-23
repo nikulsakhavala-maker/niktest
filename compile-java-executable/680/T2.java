@@ -21,6 +21,8 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 @Listeners(TestListener.class)
 public class T2 {
 
+    public static int var_ROLLNO = 7;
+
     @Test(retryAnalyzer = RetryFailedTestCases.class)
     public void t2case1() {
         tg.openBrowser();

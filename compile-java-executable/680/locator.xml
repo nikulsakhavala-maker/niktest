@@ -106,4 +106,8 @@
     <element type="class">dSM5Ub ugg2XR IUmgrZTGWEBCOMMA1</element>
     <element type="image">http://192.168.4.15/s/ele-imgs/680/9670.png</element>
   </locator>
+  <locator name="ele_nik12345">
+    <element type="class">a-input-textTGWEBCOMMACssClassTGWEBCOMMA0</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9671.png</element>
+  </locator>
 </locators>
