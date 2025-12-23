@@ -24,6 +24,20 @@ public class T3 {
     public static int var_ROLLNO = 7;
 
     @Test(retryAnalyzer = RetryFailedTestCases.class)
+    public void t3case1() {
+        tg.openBrowser();
+        tg.wait("ele_emailorpho567", ComparisonType.IS_VISIBLE);
+        tg.type("ele_emailorpho567", "user@gmail.com");
+        tg.wait("ele_password312", ComparisonType.IS_VISIBLE);
+        tg.click("ele_password312", 1);
+        tg.wait("ele_password312", ComparisonType.IS_VISIBLE);
+        tg.typeEncrypted("ele_password312", "eeNxDl6//RzOJBxUyt8Q4Q==:MTIzNDU2Nzg5MTAxMTEyMQ==");
+        tg.wait("ele_login252", ComparisonType.IS_VISIBLE);
+        tg.click("ele_login252", 1);
+        tg.close();
+    }
+
+    @Test(retryAnalyzer = RetryFailedTestCases.class)
     public void t3case2() {
         tg.openBrowser();
         tg.wait("ele_searchforp640", ComparisonType.IS_VISIBLE);
