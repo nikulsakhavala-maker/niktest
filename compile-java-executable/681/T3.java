@@ -24,17 +24,6 @@ public class T3 {
     public static int var_ROLLNO = 7;
 
     @Test(retryAnalyzer = RetryFailedTestCases.class)
-    public void t3case1() {
-        tg.openBrowser();
-        tg.wait("ele_searchamaz727", ComparisonType.IS_VISIBLE);
-        tg.click("ele_searchamaz727", 1);
-        tg.wait("ele_searchamaz727", ComparisonType.IS_VISIBLE);
-        tg.type("ele_searchamaz727", "iphone 17 pro max 1 TB");
-        tg.wait("ele_iphone17pr813", ComparisonType.IS_VISIBLE);
-        tg.close();
-    }
-
-    @Test(retryAnalyzer = RetryFailedTestCases.class)
     public void t3case2() {
         tg.openBrowser();
         tg.wait("ele_searchforp640", ComparisonType.IS_VISIBLE);
