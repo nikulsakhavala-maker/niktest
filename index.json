@@ -359,6 +359,18 @@
     "abo_import_statement": [],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
-    "abo_global_variable": [],
+    "abo_global_variable": [
+        {
+            "variable_id": "2",
+            "user_id": "2",
+            "app_id": "24",
+            "version_id": "32",
+            "variable_type": "String",
+            "variable_name": "GlobalUserName",
+            "variable_value": "Nikul Patel",
+            "created": "2025-12-24 02:55:56",
+            "updated": "2025-12-24 02:55:56"
+        }
+    ],
     "ab_scheduler": []
 }
