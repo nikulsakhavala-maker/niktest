@@ -48,4 +48,25 @@
     <element type="class">a-button-inputTGWEBCOMMA1</element>
     <element type="image">http://192.168.88.191/s/ele-imgs/194/437.png</element>
   </locator>
+  <locator name="ele_firstname799">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="css">input.form-control.ng-pristine.ng-invalid.ng-invalid-required.ng-touched</element>
+    <element type="tag">input</element>
+    <element type="class">form-control ng-pristine ng-invalid ng-invalid-required ng-touchedTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/194/438.png</element>
+  </locator>
+  <locator name="ele_lastname385">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="tag">input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/194/439.png</element>
+  </locator>
+  <locator name="ele_textarea413">
+    <element type="xpath">//textarea[@rows='3']</element>
+    <element type="css">textarea.form-control.ng-pristine.ng-valid.ng-touched</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-control ng-pristine ng-valid ng-touchedTGWEBCOMMA3</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/194/440.png</element>
+  </locator>
 </locators>
