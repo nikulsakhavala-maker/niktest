@@ -1,7 +1,7 @@
 {
     "elements": [
         {
-            "testcase_element": "ele_emailorpho148",
+            "testcase_element": "ele_emailorpho629",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -34,17 +34,17 @@
                     "d_w": 364,
                     "d_x": 778,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "Xpath",
-                    "locators_val": "//form[@id='u_0_2_78']/div/div/input",
+                    "locators_val": "//form[@id='u_0_2_88']/div/div/input",
                     "locator_id": "3",
                     "d_h": 52,
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "id",
@@ -54,7 +54,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "CSS selector",
@@ -64,7 +64,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "CSS selector",
@@ -74,7 +74,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "Xpath",
@@ -84,7 +84,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "Tag",
@@ -94,7 +94,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "class",
@@ -104,15 +104,14 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9930.png",
             "element_type": "xpath"
         },
         {
-            "testcase_element": "ele_emailorpho148",
+            "testcase_element": "ele_emailorpho629",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -145,17 +144,17 @@
                     "d_w": 364,
                     "d_x": 778,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "Xpath",
-                    "locators_val": "//form[@id='u_0_2_78']/div/div/input",
+                    "locators_val": "//form[@id='u_0_2_88']/div/div/input",
                     "locator_id": "3",
                     "d_h": 52,
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "id",
@@ -165,7 +164,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "CSS selector",
@@ -175,7 +174,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "CSS selector",
@@ -185,7 +184,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "Xpath",
@@ -195,7 +194,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "Tag",
@@ -205,7 +204,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 },
                 {
                     "locators": "class",
@@ -215,16 +214,456 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho148"
+                    "suggest_name": "emailorpho629"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9930.png",
-            "element_type": "xpath",
-            "image_url": ""
+            "element_type": "xpath"
         },
         {
-            "testcase_element": "ele_emailorpho228",
+            "testcase_element": "ele_emailorpho889",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_88']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailorpho889",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_88']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho889"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailorpho448",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number",
+                        "value": "Mk"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_88']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailorpho448",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number",
+                        "value": "Mk"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_88']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho448"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailorpho253",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -258,17 +697,17 @@
                     "d_w": 364,
                     "d_x": 778,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "Xpath",
-                    "locators_val": "//form[@id='u_0_2_78']/div/div/input",
+                    "locators_val": "//form[@id='u_0_2_88']/div/div/input",
                     "locator_id": "3",
                     "d_h": 52,
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "id",
@@ -278,7 +717,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "CSS selector",
@@ -288,7 +727,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "CSS selector",
@@ -298,7 +737,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "Xpath",
@@ -308,7 +747,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "Tag",
@@ -318,7 +757,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "class",
@@ -328,15 +767,14 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9931.png",
             "element_type": "xpath"
         },
         {
-            "testcase_element": "ele_emailorpho228",
+            "testcase_element": "ele_emailorpho253",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -370,17 +808,17 @@
                     "d_w": 364,
                     "d_x": 778,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "Xpath",
-                    "locators_val": "//form[@id='u_0_2_78']/div/div/input",
+                    "locators_val": "//form[@id='u_0_2_88']/div/div/input",
                     "locator_id": "3",
                     "d_h": 52,
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "id",
@@ -390,7 +828,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "CSS selector",
@@ -400,7 +838,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "CSS selector",
@@ -410,7 +848,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "Xpath",
@@ -420,7 +858,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "Tag",
@@ -430,7 +868,7 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 },
                 {
                     "locators": "class",
@@ -440,133 +878,14 @@
                     "d_w": 364,
                     "d_x": 778.5,
                     "d_y": 148,
-                    "suggest_name": "emailorpho228"
+                    "suggest_name": "emailorpho253"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9931.png",
-            "element_type": "xpath",
-            "image_url": ""
-        },
-        {
-            "testcase_element": "ele_password662",
-            "tg_text": "",
-            "sibling_selector": {
-                "parent": {
-                    "tag": "div",
-                    "tg_attributes": {
-                        "class": "_6luy _55r1 _1kbt _9nyi",
-                        "id": "passContainer"
-                    }
-                },
-                "next_sibling": {
-                    "tag": "div",
-                    "tg_attributes": {
-                        "class": "_9ls7 hidden_elem",
-                        "id": "u_0_3_Fg"
-                    }
-                },
-                "current_element_attrs": {
-                    "tag": "input",
-                    "tg_attributes": {
-                        "type": "password",
-                        "class": "inputtext _55r1 _6luy _9npi",
-                        "name": "pass",
-                        "id": "pass",
-                        "data-testid": "royal-pass",
-                        "placeholder": "Password",
-                        "aria-label": "Password"
-                    }
-                }
-            },
-            "locator": [
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//input[@id='pass']",
-                    "locator_id": "3",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795,
-                    "d_y": 227,
-                    "suggest_name": "password662"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//div[@id='passContainer']/input",
-                    "locator_id": "3",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password662"
-                },
-                {
-                    "locators": "id",
-                    "locators_val": "passTGWEBCOMMA1",
-                    "locator_id": "7",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password662"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": "#pass",
-                    "locator_id": "9",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password662"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": "input#passTGWEBCOMMA0",
-                    "locator_id": "9",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password662"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//div[2]/div/input",
-                    "locator_id": "3",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password662"
-                },
-                {
-                    "locators": "Tag",
-                    "locators_val": "inputTGWEBCOMMA0",
-                    "locator_id": "8",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password662"
-                },
-                {
-                    "locators": "class",
-                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
-                    "locator_id": "6",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password662"
-                }
-            ],
-            "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9932.png",
             "element_type": "xpath"
         },
         {
-            "testcase_element": "ele_password662",
+            "testcase_element": "ele_password718",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -580,7 +899,7 @@
                     "tag": "div",
                     "tg_attributes": {
                         "class": "_9ls7 hidden_elem",
-                        "id": "u_0_3_Fg"
+                        "id": "u_0_3_0P"
                     }
                 },
                 "current_element_attrs": {
@@ -605,7 +924,7 @@
                     "d_w": 300,
                     "d_x": 795,
                     "d_y": 227,
-                    "suggest_name": "password662"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "Xpath",
@@ -615,7 +934,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password662"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "id",
@@ -625,7 +944,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password662"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "CSS selector",
@@ -635,7 +954,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password662"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "CSS selector",
@@ -645,7 +964,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password662"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "Xpath",
@@ -655,7 +974,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password662"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "Tag",
@@ -665,7 +984,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password662"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "class",
@@ -675,133 +994,14 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password662"
+                    "suggest_name": "password718"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9932.png",
-            "element_type": "xpath",
-            "image_url": ""
-        },
-        {
-            "testcase_element": "ele_password174",
-            "tg_text": "",
-            "sibling_selector": {
-                "parent": {
-                    "tag": "div",
-                    "tg_attributes": {
-                        "class": "_6luy _55r1 _1kbt _9nyi",
-                        "id": "passContainer"
-                    }
-                },
-                "next_sibling": {
-                    "tag": "div",
-                    "tg_attributes": {
-                        "class": "_9ls7 hidden_elem",
-                        "id": "u_0_3_Fg"
-                    }
-                },
-                "current_element_attrs": {
-                    "tag": "input",
-                    "tg_attributes": {
-                        "type": "password",
-                        "class": "inputtext _55r1 _6luy _9npi",
-                        "name": "pass",
-                        "id": "pass",
-                        "data-testid": "royal-pass",
-                        "placeholder": "Password",
-                        "aria-label": "Password"
-                    }
-                }
-            },
-            "locator": [
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//input[@id='pass']",
-                    "locator_id": "3",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795,
-                    "d_y": 227,
-                    "suggest_name": "password174"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//div[@id='passContainer']/input",
-                    "locator_id": "3",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password174"
-                },
-                {
-                    "locators": "id",
-                    "locators_val": "passTGWEBCOMMA1",
-                    "locator_id": "7",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password174"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": "#pass",
-                    "locator_id": "9",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password174"
-                },
-                {
-                    "locators": "CSS selector",
-                    "locators_val": "input#passTGWEBCOMMA0",
-                    "locator_id": "9",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password174"
-                },
-                {
-                    "locators": "Xpath",
-                    "locators_val": "//div[2]/div/input",
-                    "locator_id": "3",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password174"
-                },
-                {
-                    "locators": "Tag",
-                    "locators_val": "inputTGWEBCOMMA0",
-                    "locator_id": "8",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password174"
-                },
-                {
-                    "locators": "class",
-                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
-                    "locator_id": "6",
-                    "d_h": 22,
-                    "d_w": 300,
-                    "d_x": 795.5,
-                    "d_y": 227,
-                    "suggest_name": "password174"
-                }
-            ],
-            "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9933.png",
             "element_type": "xpath"
         },
         {
-            "testcase_element": "ele_password174",
+            "testcase_element": "ele_password718",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -815,7 +1015,7 @@
                     "tag": "div",
                     "tg_attributes": {
                         "class": "_9ls7 hidden_elem",
-                        "id": "u_0_3_Fg"
+                        "id": "u_0_3_0P"
                     }
                 },
                 "current_element_attrs": {
@@ -840,7 +1040,7 @@
                     "d_w": 300,
                     "d_x": 795,
                     "d_y": 227,
-                    "suggest_name": "password174"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "Xpath",
@@ -850,7 +1050,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password174"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "id",
@@ -860,7 +1060,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password174"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "CSS selector",
@@ -870,7 +1070,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password174"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "CSS selector",
@@ -880,7 +1080,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password174"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "Xpath",
@@ -890,7 +1090,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password174"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "Tag",
@@ -900,7 +1100,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password174"
+                    "suggest_name": "password718"
                 },
                 {
                     "locators": "class",
@@ -910,16 +1110,14 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password174"
+                    "suggest_name": "password718"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9933.png",
-            "element_type": "xpath",
-            "image_url": ""
+            "element_type": "xpath"
         },
         {
-            "testcase_element": "ele_password889",
+            "testcase_element": "ele_password171",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -933,7 +1131,7 @@
                     "tag": "div",
                     "tg_attributes": {
                         "class": "_9ls7 hidden_elem",
-                        "id": "u_0_3_Fg"
+                        "id": "u_0_3_0P"
                     }
                 },
                 "current_element_attrs": {
@@ -959,7 +1157,7 @@
                     "d_w": 300,
                     "d_x": 795,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "Xpath",
@@ -969,7 +1167,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "id",
@@ -979,7 +1177,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "CSS selector",
@@ -989,7 +1187,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "CSS selector",
@@ -999,7 +1197,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "Xpath",
@@ -1009,7 +1207,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "Tag",
@@ -1019,7 +1217,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "class",
@@ -1029,15 +1227,14 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9934.png",
             "element_type": "xpath"
         },
         {
-            "testcase_element": "ele_password889",
+            "testcase_element": "ele_password171",
             "tg_text": "",
             "sibling_selector": {
                 "parent": {
@@ -1051,7 +1248,7 @@
                     "tag": "div",
                     "tg_attributes": {
                         "class": "_9ls7 hidden_elem",
-                        "id": "u_0_3_Fg"
+                        "id": "u_0_3_0P"
                     }
                 },
                 "current_element_attrs": {
@@ -1077,7 +1274,7 @@
                     "d_w": 300,
                     "d_x": 795,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "Xpath",
@@ -1087,7 +1284,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "id",
@@ -1097,7 +1294,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "CSS selector",
@@ -1107,7 +1304,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "CSS selector",
@@ -1117,7 +1314,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "Xpath",
@@ -1127,7 +1324,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "Tag",
@@ -1137,7 +1334,7 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 },
                 {
                     "locators": "class",
@@ -1147,13 +1344,11 @@
                     "d_w": 300,
                     "d_x": 795.5,
                     "d_y": 227,
-                    "suggest_name": "password889"
+                    "suggest_name": "password171"
                 }
             ],
             "iframe_and_shadow_root_data": [],
-            "element_image": "http://192.168.4.15/s/ele-imgs/706/9934.png",
-            "element_type": "xpath",
-            "image_url": ""
+            "element_type": "xpath"
         }
     ]
 }
