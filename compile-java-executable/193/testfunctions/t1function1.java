@@ -1,30 +1,6 @@
-import io.testgrid.listeners.TestListener;
-import io.testgrid.listeners.RetryFailedTestCases;
-import io.testgrid.tg;
-import org.testng.annotations.*;
-import app.getxray.xray.testng.annotations.XrayTest;
-import io.testgrid.enums.ComparisonType;
-import org.json.JSONObject;
-import io.testgrid.enums.Direction;
-import io.testgrid.enums.Size;
-import io.testgrid.enums.Buttons;
-import static io.testgrid.baseClass.driver;
-import org.openqa.selenium.*;
-import static io.testgrid.enums.KeyboardKeys.*;
-import org.openqa.selenium.support.ui.Select;
-import java.net.*;
-import java.util.*;
-import java.io.*;
-import java.util.concurrent.TimeUnit;
-import org.openqa.selenium.remote.RemoteWebDriver;
-import org.testng.annotations.Test;
+class t1function1 {
 
-@Listeners(TestListener.class);
-public class t1case1 {
-
-	@Test(retryAnalyzer = RetryFailedTestCases.class)
-	public void t1case1() {
-		tg.openBrowser();
+	public static void t1function1() {
 		tg.wait("ele_firstname817", ComparisonType.IS_VISIBLE, 1);
 		tg.click("ele_firstname817", 1);
 		tg.wait("ele_firstname817", ComparisonType.IS_VISIBLE, 1);
@@ -45,6 +21,5 @@ public class t1case1 {
 		tg.click("ele_checkbox887", 1);
 		tg.wait("ele_checkbox045", ComparisonType.IS_VISIBLE, 1);
 		tg.click("ele_checkbox045", 1);
-		tg.close();
 	}
 }

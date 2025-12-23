@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_firstname817">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="tag">input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/193/426.png</element>
+  </locator>
+  <locator name="ele_lastname973">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="tag">input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/193/427.png</element>
+  </locator>
+  <locator name="ele_textarea412">
+    <element type="xpath">//textarea[@rows='3']</element>
+    <element type="css">textarea.form-control.ng-pristine.ng-untouched.ng-valid</element>
+    <element type="tag">textarea</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-validTGWEBCOMMA3</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/193/428.png</element>
+  </locator>
+  <locator name="ele_emailemail126">
+    <element type="xpath">//input[@type='email']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-valid-email.ng-invalid.ng-invalid-required</element>
+    <element type="tag">input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-requiredTGWEBCOMMA4</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/193/429.png</element>
+  </locator>
+  <locator name="ele_checkbox887">
+    <element type="xpath">//input[@id='checkbox1']</element>
+    <element type="id">checkbox1TGWEBCOMMA1</element>
+    <element type="css">#checkbox1</element>
+    <element type="tag">input</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/193/430.png</element>
+  </locator>
+  <locator name="ele_checkbox045">
+    <element type="xpath">//input[@id='checkbox2']</element>
+    <element type="id">checkbox2TGWEBCOMMA1</element>
+    <element type="css">#checkbox2</element>
+    <element type="tag">input</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/193/431.png</element>
+  </locator>
+</locators>
