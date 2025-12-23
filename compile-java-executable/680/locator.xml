@@ -66,4 +66,44 @@
     <element type="class">a-button-inputTGWEBCOMMA8</element>
     <element type="image">http://192.168.4.15/s/ele-imgs/680/9665.png</element>
   </locator>
+  <locator name="ele_searchforp943">
+    <element type="xpath">//input[@placeholder='Search for Products, Brands and More']</element>
+    <element type="css">input[name="q"]</element>
+    <element type="css">div#container &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; header &gt; div &gt; div:nth-of-type(2) &gt; form &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">lNPl8bTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9666.png</element>
+  </locator>
+  <locator name="ele_searchforp831">
+    <element type="xpath">//input[@placeholder='Search for Products, Brands and More']</element>
+    <element type="css">input[name="q"]</element>
+    <element type="css">div#container &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; header &gt; div &gt; div:nth-of-type(2) &gt; form &gt; div &gt; div &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">lNPl8bTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9667.png</element>
+  </locator>
+  <locator name="ele_shoesforme629">
+    <element type="xpath">//*/text()[normalize-space(.)='for men']/parent::*</element>
+    <element type="css">div.URRkKz.RzamwD</element>
+    <element type="css">div#container &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; div &gt; header &gt; div &gt; div:nth-of-type(2) &gt; form &gt; ul &gt; li &gt; div &gt; a &gt; div:nth-of-type(2)TGWEBCOMMA7</element>
+    <element type="tag">divTGWEBCOMMA2</element>
+    <element type="class">URRkKz RzamwDTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9668.png</element>
+  </locator>
+  <locator name="ele_imgtgwebco190">
+    <element type="xpath">//img[@src='https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/k/e/r/7-sneaker-7-echor-white-blue-original-imahf9ps8wwbzfyv.jpeg?q=70']</element>
+    <element type="css">div:nth-of-type(3) &gt; div.bLCLBY.nr15la.MDdjC7 &gt; a.CIaYa1 &gt; div &gt; div &gt; div.jn1d30 &gt; div.fWB4Ui.TTHoOY &gt; img.MZeksS</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div:nth-of-type(2) &gt; div:nth-of-type(2) &gt; div &gt; div:nth-of-type(3) &gt; div &gt; a &gt; div &gt; div &gt; div &gt; div &gt; imgTGWEBCOMMA0</element>
+    <element type="tag">imgTGWEBCOMMA0</element>
+    <element type="class">MZeksSTGWEBCOMMA3</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9669.png</element>
+  </locator>
+  <locator name="ele_addtocart790">
+    <element type="xpath">//button[contains(text(),'Add to cart')]</element>
+    <element type="css">button.dSM5Ub.ugg2XR.IUmgrZ</element>
+    <element type="css">div#container &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; ul &gt; li &gt; buttonTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class">dSM5Ub ugg2XR IUmgrZTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9670.png</element>
+  </locator>
 </locators>
