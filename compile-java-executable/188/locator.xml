@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_firstname794">
+    <element type="xpath">//input[@placeholder='First Name']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="tag">input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/188/411.png</element>
+  </locator>
+  <locator name="ele_lastname505">
+    <element type="xpath">//input[@placeholder='Last Name']</element>
+    <element type="css">input.form-control.ng-pristine.ng-untouched.ng-invalid.ng-invalid-required</element>
+    <element type="tag">input</element>
+    <element type="class">form-control ng-pristine ng-untouched ng-invalid ng-invalid-requiredTGWEBCOMMA2</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/188/412.png</element>
+  </locator>
+</locators>

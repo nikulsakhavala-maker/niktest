@@ -17,18 +17,19 @@ import java.util.*;
 import java.io.*;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.Test;
 
-@Listeners(TestListener.class)
-public class T2 {
+@Listeners(TestListener.class);
+public class t2case1 {
 
-    @Test(retryAnalyzer = RetryFailedTestCases.class)
-    public void t2case1() {
-        tg.openBrowser();
-        tg.wait("ele_firstname794", ComparisonType.IS_VISIBLE);
-        tg.click("ele_firstname794", 1);
-        tg.wait("ele_firstname794", ComparisonType.IS_VISIBLE);
-        tg.type("ele_firstname794", "rdgdghfh");
-        tg.wait("ele_lastname505", ComparisonType.IS_VISIBLE);
-        tg.close();
-    }
+	@Test(retryAnalyzer = RetryFailedTestCases.class)
+	public void t2case1() {
+		tg.openBrowser();
+		tg.wait("ele_firstname794", ComparisonType.IS_VISIBLE);
+		tg.click("ele_firstname794", 1);
+		tg.wait("ele_firstname794", ComparisonType.IS_VISIBLE);
+		tg.type("ele_firstname794", "rdgdghfh");
+		tg.wait("ele_lastname505", ComparisonType.IS_VISIBLE);
+		tg.close();
+	}
 }
