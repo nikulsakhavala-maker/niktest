@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_searchamaz318">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="css">input#twotabsearchtextboxTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9658.png</element>
+  </locator>
+  <locator name="ele_searchamaz388">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="css">input#twotabsearchtextboxTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9659.png</element>
+  </locator>
+  <locator name="ele_under724">
+    <element type="xpath">//span[contains(text(),'under 10000 5g mobile')]</element>
+    <element type="css">span.s-heavy</element>
+    <element type="css">div#sac-suggestion-row-1-cell-1 &gt; div &gt; spanTGWEBCOMMA0</element>
+    <element type="tag">spanTGWEBCOMMA0</element>
+    <element type="class">s-heavyTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9660.png</element>
+  </locator>
+  <locator name="ele_samsunggal007">
+    <element type="xpath">//span[contains(text(),'Samsung Galaxy S25 Ultra 5G AI Smartphone (Titaniu')]</element>
+    <element type="css">body &gt; div:nth-child(1) &gt; div:nth-child(32) &gt; div:nth-child(10) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; span:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(9) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; span:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; a:nth-child(2) &gt; h2:nth-child(1) &gt; span:nth-child(1)</element>
+    <element type="css">div#1ccdf14a-71bd-48cc-8b34-c2009867c802 &gt; div &gt; div &gt; div &gt; div &gt; span &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; a &gt; h2 &gt; spanTGWEBCOMMA0</element>
+    <element type="tag">spanTGWEBCOMMA0</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9661.png</element>
+  </locator>
+  <locator name="ele_inputtgweb414">
+    <element type="xpath">//input[@name='2']</element>
+    <element type="css">input[name="2"]</element>
+    <element type="css">span#color_name_2 &gt; span &gt; inputTGWEBCOMMA1</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-button-inputTGWEBCOMMA22</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9662.png</element>
+  </locator>
+  <locator name="ele_inputtgweb098">
+    <element type="xpath">//input[@name='5']</element>
+    <element type="css">input[name="5"]</element>
+    <element type="css">span#color_name_5 &gt; span &gt; inputTGWEBCOMMA1</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-button-inputTGWEBCOMMA26</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9663.png</element>
+  </locator>
+  <locator name="ele_inputtgweb171">
+    <element type="xpath">//span[@id='size_name_0']//span//input[@name='0']</element>
+    <element type="css">#size_name_0 &gt; span.a-button-inner &gt; input[name="0"]</element>
+    <element type="css">span#size_name_0 &gt; span &gt; inputTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-button-inputTGWEBCOMMA34</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9664.png</element>
+  </locator>
+  <locator name="ele_buynowbutt618">
+    <element type="xpath">//input[@id='buy-now-button']</element>
+    <element type="id">buy-now-buttonTGWEBCOMMA1</element>
+    <element type="css">#buy-now-button</element>
+    <element type="css">input#buy-now-buttonTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">a-button-inputTGWEBCOMMA8</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/680/9665.png</element>
+  </locator>
+</locators>
