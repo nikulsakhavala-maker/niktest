@@ -21,6 +21,8 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 @Listeners(TestListener.class)
 public class T1 {
 
+    public static String var_GlobalUserName = "Nikul Patel";
+
     @Test(retryAnalyzer = RetryFailedTestCases.class)
     public void t1case1() {
         tg.openBrowser();
