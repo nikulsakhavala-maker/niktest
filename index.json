@@ -1,14 +1,14 @@
 {
     "status": true,
     "message": "Version data loaded successfully.",
-    "version_id": 32,
+    "version_id": "32",
     "user_id": "2",
     "abo_version": {
         "version_id": "32",
         "app_id": "24",
         "version_name": "1.0",
         "version_description": "",
-        "cm_version_module": "",
+        "cm_version_module": "193",
         "platform": "3",
         "ai_modal_id": "cotester_client_3LWW3ZitSz4bOlCE7zMlXlrk",
         "script_type": "3",
@@ -16,7 +16,7 @@
         "is_delete": "0",
         "xray_project_version": null,
         "restore_id": "0",
-        "is_git_enabled": "0",
+        "is_git_enabled": "1",
         "git_restore_id": "0"
     },
     "app_id": "24",
@@ -28,7 +28,7 @@
         "os_type": "0",
         "nob": "3",
         "application_token": "0af98c31d2c93b7539c50a7995a25b5e",
-        "cm_version_id": "1,31",
+        "cm_version_id": "1,31,32",
         "is_autoheal": "1",
         "is_autoheal_autofixed": "0",
         "is_testcase_retries": "0",
@@ -43,7 +43,53 @@
         "created": "2025-12-23 19:30:10",
         "updated": "2025-12-23 19:30:10"
     },
-    "abo_version_module": [],
+    "abo_version_module": [
+        {
+            "version_module_id": "193",
+            "version_id": "32",
+            "parent_id": "0",
+            "module_name": "T1",
+            "module_description": "",
+            "count_resource": "0",
+            "cm_resource_pages": "",
+            "cm_default_resource": "",
+            "cm_test_function": "",
+            "cm_test_case": "",
+            "cm_test_case_ai": "",
+            "cm_network": "",
+            "cm_renderer": "",
+            "view_updated_date_time": null,
+            "is_updated": "1",
+            "is_complie": "0",
+            "server_ids": null,
+            "is_running": "0",
+            "is_delete": "0",
+            "abo_vm_test_case": [],
+            "abo_version_proc": [],
+            "abo_vm_network_assert": [],
+            "abo_update": [
+                {
+                    "id": "421",
+                    "user_id": "2",
+                    "app_id": "24",
+                    "version_id": "32",
+                    "version_module_id": "193",
+                    "description": "",
+                    "action_process": "add_version_module"
+                }
+            ],
+            "abo_version_pages": [
+                {
+                    "version_page_id": 0,
+                    "version_module_id": "193",
+                    "cm_resource": "",
+                    "page_name": "Manually Added Resources ",
+                    "image_url": "",
+                    "abo_version_maps": []
+                }
+            ]
+        }
+    ],
     "abo_version_capabilities": [],
     "abo_import_statement": [],
     "abo_maven_dependency": [],
