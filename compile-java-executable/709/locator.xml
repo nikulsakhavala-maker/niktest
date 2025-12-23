@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_emailorpho148">
+    <element type="xpath">//input[@id='email']</element>
+    <element type="id">emailTGWEBCOMMA1</element>
+    <element type="css">#email</element>
+    <element type="css">input#emailTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _55r1 _6luyTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_emailorpho228">
+    <element type="xpath">//input[@id='email']</element>
+    <element type="id">emailTGWEBCOMMA1</element>
+    <element type="css">#email</element>
+    <element type="css">input#emailTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _55r1 _6luyTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_password662">
+    <element type="xpath">//input[@id='pass']</element>
+    <element type="id">passTGWEBCOMMA1</element>
+    <element type="css">#pass</element>
+    <element type="css">input#passTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_password174">
+    <element type="xpath">//input[@id='pass']</element>
+    <element type="id">passTGWEBCOMMA1</element>
+    <element type="css">#pass</element>
+    <element type="css">input#passTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
+  </locator>
+  <locator name="ele_password889">
+    <element type="xpath">//input[@id='pass']</element>
+    <element type="id">passTGWEBCOMMA1</element>
+    <element type="css">#pass</element>
+    <element type="css">input#passTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">inputtext _55r1 _6luy _9npiTGWEBCOMMA2</element>
+  </locator>
+</locators>
