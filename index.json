@@ -1231,7 +1231,7 @@
             "count_resource": "30",
             "cm_resource_pages": "",
             "cm_default_resource": "9686,9687,9688,9689,9690,9691,9692,9693,9694,9695,9696,9697,9698,9699,9700,9701,9702,9703,9704,9705,9706,9707,9708,9709,9710,9711,9712,9713,9714,9715",
-            "cm_test_function": "556",
+            "cm_test_function": "556,557",
             "cm_test_case": "1355,1358",
             "cm_test_case_ai": "",
             "cm_network": "",
@@ -1295,6 +1295,17 @@
                     "is_ai_generated": "0",
                     "is_deleted": "0000-00-00 00:00:00",
                     "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/104/238/681/testfunctions/functiont3case1.java"
+                },
+                {
+                    "proc_id": "557",
+                    "version_module_id": "681",
+                    "proc_name": "functionT3case2",
+                    "proc_description": "",
+                    "cm_step_list": "",
+                    "is_compiled": "0",
+                    "is_ai_generated": "0",
+                    "is_deleted": "0000-00-00 00:00:00",
+                    "java_file": "/Applications/XAMPP/xamppfiles/htdocs/process/compile-java-executable/104/238/681/testfunctions/functiont3case2.java"
                 }
             ],
             "abo_vm_network_assert": [],
