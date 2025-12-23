@@ -41,4 +41,13 @@
     <element type="class"> a-button-close a-declarativeTGWEBCOMMA1</element>
     <element type="image">http://192.168.4.15/s/ele-imgs/681/9690.png</element>
   </locator>
+  <locator name="ele_apjfqb503">
+    <element type="xpath">//textarea[@id='APjFqb']</element>
+    <element type="id">APjFqbTGWEBCOMMA1</element>
+    <element type="css">#APjFqb</element>
+    <element type="css">textarea#APjFqbTGWEBCOMMA0</element>
+    <element type="tag">textareaTGWEBCOMMA0</element>
+    <element type="class">gLFyfTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9691.png</element>
+  </locator>
 </locators>

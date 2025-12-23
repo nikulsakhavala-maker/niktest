@@ -1198,6 +1198,259 @@
             "element_image": "http://192.168.4.15/s/ele-imgs/681/9690.png",
             "element_type": "xpath",
             "image_url": ""
+        },
+        {
+            "testcase_element": "ele_apjfqb503",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "jscontroller": "vZr2rb",
+                        "jsname": "gLFyf",
+                        "class": "a4bIc",
+                        "data-hpmde": "false",
+                        "data-mnr": "20",
+                        "jsaction": "KjsqPd;input:Lg5SV;blur:fpfTEe;paste:V64iSc"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "jsname": "vdLsw",
+                        "class": "YacQv"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "textarea",
+                    "tg_attributes": {
+                        "jsname": "yZiJbe",
+                        "class": "gLFyf",
+                        "aria-controls": "Alh6id",
+                        "aria-owns": "Alh6id",
+                        "autofocus": "",
+                        "title": "Search",
+                        "value": "",
+                        "aria-label": "Search",
+                        "placeholder": "",
+                        "aria-autocomplete": "both",
+                        "aria-expanded": "false",
+                        "aria-haspopup": "false",
+                        "autocapitalize": "off",
+                        "autocomplete": "off",
+                        "autocorrect": "off",
+                        "id": "APjFqb",
+                        "maxlength": "2048",
+                        "name": "q",
+                        "role": "combobox",
+                        "rows": "1",
+                        "spellcheck": "false",
+                        "data-ved": "0ahUKEwjDzouyrNSRAxUd8MkDHWDyBd4Q39UDCAs"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//textarea[@id='APjFqb']",
+                    "locator_id": "3",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "APjFqbTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#APjFqb",
+                    "locator_id": "9",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "textarea#APjFqbTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//textarea",
+                    "locator_id": "3",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "textareaTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "gLFyfTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9691.png",
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_apjfqb503",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "jscontroller": "vZr2rb",
+                        "jsname": "gLFyf",
+                        "class": "a4bIc",
+                        "data-hpmde": "false",
+                        "data-mnr": "20",
+                        "jsaction": "KjsqPd;input:Lg5SV;blur:fpfTEe;paste:V64iSc"
+                    }
+                },
+                "previous_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "jsname": "vdLsw",
+                        "class": "YacQv"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "textarea",
+                    "tg_attributes": {
+                        "jsname": "yZiJbe",
+                        "class": "gLFyf",
+                        "aria-controls": "Alh6id",
+                        "aria-owns": "Alh6id",
+                        "autofocus": "",
+                        "title": "Search",
+                        "value": "",
+                        "aria-label": "Search",
+                        "placeholder": "",
+                        "aria-autocomplete": "both",
+                        "aria-expanded": "false",
+                        "aria-haspopup": "false",
+                        "autocapitalize": "off",
+                        "autocomplete": "off",
+                        "autocorrect": "off",
+                        "id": "APjFqb",
+                        "maxlength": "2048",
+                        "name": "q",
+                        "role": "combobox",
+                        "rows": "1",
+                        "spellcheck": "false",
+                        "data-ved": "0ahUKEwjDzouyrNSRAxUd8MkDHWDyBd4Q39UDCAs"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//textarea[@id='APjFqb']",
+                    "locator_id": "3",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "APjFqbTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#APjFqb",
+                    "locator_id": "9",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "textarea#APjFqbTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//textarea",
+                    "locator_id": "3",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "textareaTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "gLFyfTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 50,
+                    "d_w": 440,
+                    "d_x": 387,
+                    "d_y": 377,
+                    "suggest_name": "apjfqb503"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_image": "http://192.168.4.15/s/ele-imgs/681/9691.png",
+            "element_type": "xpath",
+            "image_url": ""
         }
     ]
 }
