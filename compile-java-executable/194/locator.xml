@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_searchamaz490">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="tag">input</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/194/432.png</element>
+  </locator>
+  <locator name="ele_input1radi560">
+    <element type="xpath">//input[@name='1']</element>
+    <element type="css">input[name="1"]</element>
+    <element type="tag">input</element>
+    <element type="class">a-button-inputTGWEBCOMMA14</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/194/433.png</element>
+  </locator>
+  <locator name="ele_input0radi749">
+    <element type="xpath">//input[@name='0']</element>
+    <element type="css">input[name="0"]</element>
+    <element type="tag">input</element>
+    <element type="class">a-button-inputTGWEBCOMMA12</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/194/434.png</element>
+  </locator>
+  <locator name="ele_quantity178">
+    <element type="xpath">//span[@id='a-autoid-70-announce']</element>
+    <element type="id">a-autoid-70-announceTGWEBCOMMA1</element>
+    <element type="css">#a-autoid-70-announce</element>
+    <element type="tag">span</element>
+    <element type="class">a-button-text a-declarativeTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/194/435.png</element>
+  </locator>
+  <locator name="ele_a049">
+    <element type="xpath">//a[@id='quantity_3']</element>
+    <element type="id">quantity_3TGWEBCOMMA1</element>
+    <element type="css">#quantity_3</element>
+    <element type="partiallinktext">4TGWEBCOMMA9</element>
+    <element type="linktext">4TGWEBCOMMA0</element>
+    <element type="tag">a</element>
+    <element type="class">a-dropdown-linkTGWEBCOMMA4</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/194/436.png</element>
+  </locator>
+  <locator name="ele_addtocartb327">
+    <element type="xpath">//input[@id='add-to-cart-button']</element>
+    <element type="id">add-to-cart-buttonTGWEBCOMMA1</element>
+    <element type="css">#add-to-cart-button</element>
+    <element type="tag">input</element>
+    <element type="class">a-button-inputTGWEBCOMMA1</element>
+    <element type="image">http://192.168.88.191/s/ele-imgs/194/437.png</element>
+  </locator>
+</locators>
