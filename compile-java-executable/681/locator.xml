@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_searchamaz727">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="css">input#twotabsearchtextboxTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9686.png</element>
+  </locator>
+  <locator name="ele_iphone17pr813">
+    <element type="xpath">//span[contains(text(),'iPhone 17 Pro Max 2 TB: 17.42 cm (6.9″) Display wi')]</element>
+    <element type="css">body &gt; div:nth-child(1) &gt; div:nth-child(31) &gt; div:nth-child(10) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; span:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(8) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; span:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(2) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; div:nth-child(1) &gt; a:nth-child(1) &gt; h2:nth-child(1) &gt; span:nth-child(1)</element>
+    <element type="css">div#98d79952-8adf-4f62-934b-50a382875ee1 &gt; div &gt; div &gt; span &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; a &gt; h2 &gt; spanTGWEBCOMMA0</element>
+    <element type="tag">spanTGWEBCOMMA0</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9687.png</element>
+  </locator>
+  <locator name="ele_addtocart414">
+    <element type="xpath">//button[@id='a-autoid-2-announce']</element>
+    <element type="id">a-autoid-2-announceTGWEBCOMMA1</element>
+    <element type="css">#a-autoid-2-announce</element>
+    <element type="css">button#a-autoid-2-announceTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class">a-button-textTGWEBCOMMA4</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9688.png</element>
+  </locator>
+  <locator name="ele_increasequ641">
+    <element type="xpath">//button[@aria-label='Increase quantity by one']</element>
+    <element type="css">button[aria-label='Increase quantity by one']</element>
+    <element type="css">div#98d79952-8adf-4f62-934b-50a382875ee1 &gt; div &gt; div &gt; span &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div:nth-of-type(3) &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; div &gt; form &gt; div &gt; fieldset &gt; button:nth-of-type(2)TGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA1</element>
+    <element type="class">a-declarativeTGWEBCOMMA17</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9689.png</element>
+  </locator>
+  <locator name="ele_apopovercl964">
+    <element type="xpath">//div[@id='a-popover-2']//div//div//button[@aria-label='Close']</element>
+    <element type="css">button.a-button-close.a-declarative</element>
+    <element type="css">div#a-popover-2 &gt; div &gt; div &gt; buttonTGWEBCOMMA0</element>
+    <element type="tag">buttonTGWEBCOMMA0</element>
+    <element type="class"> a-button-close a-declarativeTGWEBCOMMA1</element>
+    <element type="image">http://192.168.4.15/s/ele-imgs/681/9690.png</element>
+  </locator>
+</locators>
