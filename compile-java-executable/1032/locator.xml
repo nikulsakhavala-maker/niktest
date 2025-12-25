@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_searchamaz942">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="css">input#twotabsearchtextboxTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_searchamaz781">
+    <element type="xpath">//input[@id='twotabsearchtextbox']</element>
+    <element type="id">twotabsearchtextboxTGWEBCOMMA1</element>
+    <element type="css">#twotabsearchtextbox</element>
+    <element type="css">input#twotabsearchtextboxTGWEBCOMMA0</element>
+    <element type="tag">inputTGWEBCOMMA0</element>
+    <element type="class">nav-input nav-progressive-attributeTGWEBCOMMA1</element>
+  </locator>
+  <locator name="ele_navcover566">
+    <element type="xpath">//div[@id='nav-cover']</element>
+    <element type="id">nav-coverTGWEBCOMMA1</element>
+    <element type="css">#nav-cover</element>
+    <element type="css">div#nav-coverTGWEBCOMMA0</element>
+    <element type="tag">divTGWEBCOMMA271</element>
+  </locator>
+</locators>
