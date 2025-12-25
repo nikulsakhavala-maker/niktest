@@ -1,0 +1,1144 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_emailorpho625",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_Jb']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailorpho625",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_Jb']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho625"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailorpho333",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number",
+                        "value": "Mukund"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_Jb']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_emailorpho333",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6lux"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "text",
+                        "class": "inputtext _55r1 _6luy",
+                        "name": "email",
+                        "id": "email",
+                        "data-testid": "royal-email",
+                        "placeholder": "Email or phone number",
+                        "autofocus": "1",
+                        "autocomplete": "username webauthn",
+                        "aria-label": "Email or phone number",
+                        "value": "Mukund"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='email']",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//form[@id='u_0_2_Jb']/div/div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "emailTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#email",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#emailTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div/input",
+                    "locator_id": "3",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luyTGWEBCOMMA1",
+                    "locator_id": "6",
+                    "d_h": 52,
+                    "d_w": 364,
+                    "d_x": 778.5,
+                    "d_y": 148,
+                    "suggest_name": "emailorpho333"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password916",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_TC"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password916",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_TC"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password916"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password491",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_TC"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password491",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_TC"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password491"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password774",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_TC"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password",
+                        "value": "Mukund"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        },
+        {
+            "testcase_element": "ele_password774",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_6luy _55r1 _1kbt _9nyi",
+                        "id": "passContainer"
+                    }
+                },
+                "next_sibling": {
+                    "tag": "div",
+                    "tg_attributes": {
+                        "class": "_9ls7 hidden_elem",
+                        "id": "u_0_3_TC"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "input",
+                    "tg_attributes": {
+                        "type": "password",
+                        "class": "inputtext _55r1 _6luy _9npi",
+                        "name": "pass",
+                        "id": "pass",
+                        "data-testid": "royal-pass",
+                        "placeholder": "Password",
+                        "aria-label": "Password",
+                        "value": "Mukund"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//input[@id='pass']",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[@id='passContainer']/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "id",
+                    "locators_val": "passTGWEBCOMMA1",
+                    "locator_id": "7",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "#pass",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "input#passTGWEBCOMMA0",
+                    "locator_id": "9",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//div[2]/div/input",
+                    "locator_id": "3",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "inputTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                },
+                {
+                    "locators": "class",
+                    "locators_val": "inputtext _55r1 _6luy _9npiTGWEBCOMMA2",
+                    "locator_id": "6",
+                    "d_h": 22,
+                    "d_w": 300,
+                    "d_x": 795.5,
+                    "d_y": 227,
+                    "suggest_name": "password774"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        }
+    ]
+}
